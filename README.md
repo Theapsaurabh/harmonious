@@ -1,6 +1,7 @@
 Harmonious 🎶 - Where Music Meets Technology
 
-A full-stack music revolution! More than just a player - it's a social listening experience. Built with React.js, Node.js, and Express.js.
+A full-stack music revolution! More than just a player - it's a social listening experience. Built with React.js,tailwind, shadcn UI, Zustand,Node.js,express.js, socket I/O, MongoDB
+
 
 ✨ Key Features:
 • Smart Music Player with intuitive controls
